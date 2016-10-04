@@ -1,7 +1,5 @@
 <?php
 
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-?>
+//[start task 1]
+echo 'page about';
+//[end task 1]

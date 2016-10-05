@@ -1,2 +1,2 @@
 <?php
-echo 'home page';
+echo 'home page 1';

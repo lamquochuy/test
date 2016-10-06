@@ -1,3 +1,3 @@
 <?php
-echo 'home page';
+echo 'home page 1';
 echo 'welcome';
